@@ -105,3 +105,4 @@
 - `Ctrl + Shift + G` — Source Control
 - `Ctrl + Enter` — Commit (when in Source Control input)
 - `Ctrl + Shift + P` then `Git: ` — Access all Git commands
+
