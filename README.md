@@ -11,3 +11,7 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 3 - Identifiers & Literals** (`chapter_03_Identifiers_Literals.js/`): Valid identifier rules, naming conventions (camelCase, PascalCase, snake_case, etc.), and VS Code productivity shortcuts for both Mac and Windows.
 
 - **Chapter 4 - JavaScript Variables** (`chapter_04_Javascripts_Variables.js/`): Variable declarations with `var`, `let`, and `const`, function scope vs block scope, and hoisting concepts with practical examples.
+
+- **Chapter 5 - Literals** (`chapter_05_literals_concepts.js/`): JavaScript literals including numbers, strings, template literals, null, undefined, and empty values.
+
+- **Chapter 6 - Operators** (`chapter-06_Operators.js/`): Arithmetic, assignment, comparison (`==` vs `===`), logical operators, and confusing comparison edge cases.
