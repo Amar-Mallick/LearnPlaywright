@@ -14,4 +14,4 @@ A JavaScript learning course structured for Playwright automation testing, progr
 
 - **Chapter 5 - Literals** (`chapter_05_literals_concepts.js/`): JavaScript literals including numbers, strings, template literals, null, undefined, and empty values.
 
-- **Chapter 6 - Operators** (`chapter-06_Operators.js/`): Arithmetic, assignment, comparison (`==` vs `===`), logical operators, and confusing comparison edge cases.
+- **Chapter 6 - Operators** (`chapter-06_Operators.js/`): Arithmetic, assignment, comparison (`==` vs `===`), logical operators, confusing comparison edge cases, exponentiation operator, compound assignment operators, loose vs strict equality, and transitivity of `==`.
