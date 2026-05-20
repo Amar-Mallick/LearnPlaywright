@@ -14,4 +14,6 @@ A JavaScript learning course structured for Playwright automation testing, progr
 
 - **Chapter 5 - Literals** (`chapter_05_literals_concepts.js/`): JavaScript literals including numbers, strings, template literals, null, undefined, and empty values.
 
-- **Chapter 6 - Operators** (`chapter-06_Operators.js/`): Arithmetic, assignment, comparison (`==` vs `===`), logical operators, confusing comparison edge cases, exponentiation operator, compound assignment operators, loose vs strict equality, and transitivity of `==`.
+- **Chapter 6 - Operators** (`chapter_06_Operators.js/`): Arithmetic, assignment, comparison (`==` vs `===`), logical operators, confusing comparison edge cases, exponentiation operator, compound assignment operators, loose vs strict equality, transitivity of `==`, string operator, typeof, ternary, increment/decrement, and nullish coalescing operator.
+
+- **Chapter 7 - Statements** (`chapter_07_Statments.js/`): Conditional statements — `if`, `if-else`, `if-else if`, with practical exercises including odd/even check, grade calculator, leap year check, HTTP status codes, pass/fail check, bug severity, health report, and IQ practice problems.
