@@ -9,6 +9,6 @@ function printValue() {
     console.log(l);
 }
 printValue();
-let l = 30;
-console.log(l);//SyntaxError: Identifier 'l' has already been declared
+l = 30;
+console.log(l);
 
