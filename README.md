@@ -17,3 +17,7 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 6 - Operators** (`chapter_06_Operators/`): Arithmetic, assignment, comparison (`==` vs `===`), logical operators, confusing comparison edge cases, exponentiation operator, compound assignment operators, loose vs strict equality, transitivity of `==`, string operator, typeof, ternary, increment/decrement, and nullish coalescing operator.
 
 - **Chapter 7 - Statements** (`chapter_07_Statements/`): Conditional statements — `if`, `if-else`, `if-else if`, with practical exercises including odd/even check, grade calculator, leap year check, HTTP status codes, pass/fail check, bug severity, health report, and IQ practice problems.
+
+- **Chapter 8 - Switch Case Statements** (`chapter_08_SwitchCase_Statements.js/`): The `switch` statement with `case`, `default`, and `break`, including real-time examples, switch grouping, and IQ problems such as a calculator, season finder, and grade converter.
+
+- **Chapter 9 - Loops** (`chapter_09_Loops.js/`): Loop constructs — `while`, `do-while`, `for`, along with `continue` and `break` control flow, multiple IQ practice problems, and two comprehensive assignments.
