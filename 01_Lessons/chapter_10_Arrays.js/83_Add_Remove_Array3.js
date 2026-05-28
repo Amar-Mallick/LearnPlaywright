@@ -27,3 +27,5 @@ group.splice(1, 0, 25);
 console.log(group);//[ 1, 25, 2, 3 ]
 group.splice(1, 0, 55, 45);
 console.log(group);//[ 1, 55, 45, 25, 2, 3 ]
+
+
