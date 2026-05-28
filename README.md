@@ -21,3 +21,5 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 8 - Switch Case Statements** (`chapter_08_SwitchCase_Statements.js/`): The `switch` statement with `case`, `default`, and `break`, including real-time examples, switch grouping, and IQ problems such as a calculator, season finder, and grade converter.
 
 - **Chapter 9 - Loops** (`chapter_09_Loops.js/`): Loop constructs — `while`, `do-while`, `for`, along with `continue` and `break` control flow, multiple IQ practice problems, and two comprehensive assignments.
+
+- **Chapter 10 - Arrays** (`chapter_10_Arrays.js/`): Array manipulation — adding/removing elements, sorting, joining, slicing, deleting methods, and array checking.
