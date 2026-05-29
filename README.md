@@ -23,3 +23,5 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 9 - Loops** (`chapter_09_Loops.js/`): Loop constructs — `while`, `do-while`, `for`, along with `continue` and `break` control flow, multiple IQ practice problems, and two comprehensive assignments.
 
 - **Chapter 10 - Arrays** (`chapter_10_Arrays.js/`): Array manipulation — adding/removing elements, sorting, joining, slicing, deleting methods, and array checking.
+
+- **Chapter 11 - Functions** (`chapter_11_Functions.js/`): Function types — no-param/no-return, no-param/return, take-param/no-return, take-param/return-value, function expressions, arrow functions, and template literals in functions.
