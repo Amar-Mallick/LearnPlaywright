@@ -24,4 +24,4 @@ A JavaScript learning course structured for Playwright automation testing, progr
 
 - **Chapter 10 - Arrays** (`chapter_10_Arrays.js/`): Array manipulation — adding/removing elements, sorting, joining, slicing, deleting methods, and array checking.
 
-- **Chapter 11 - Functions** (`chapter_11_Functions.js/`): Function types — no-param/no-return, no-param/return, take-param/no-return, take-param/return-value, function expressions, arrow functions, and template literals in functions.
+- **Chapter 11 - Functions** (`chapter_11_Functions.js/`): Function types — no-param/no-return, no-param/return, take-param/no-return, take-param/return-value, function expressions, arrow functions, and template literals in functions. Includes advanced topics: closures (with real API examples), higher-order functions, pure functions, and impure functions.
