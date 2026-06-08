@@ -25,3 +25,9 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 10 - Arrays** (`chapter_10_Arrays.js/`): Array manipulation — adding/removing elements, sorting, joining, slicing, deleting methods, and array checking.
 
 - **Chapter 11 - Functions** (`chapter_11_Functions.js/`): Function types — no-param/no-return, no-param/return, take-param/no-return, take-param/return-value, function expressions, arrow functions, and template literals in functions. Includes advanced topics: closures (with real API examples), higher-order functions, pure functions, and impure functions.
+
+- **Chapter 12 - Strings** (`Chapter_12_Strings.js/`): String creation, properties (`length`, `at`, `charAt`), searching methods (`includes`, `startsWith`, `indexOf`, `search`), substring extraction, transformation, type conversion, palindrome validation, and anagram checking.
+
+- **Chapter 13 - Objects** (`Chapter_13_Objects.js/`): Object creation, copy-by-reference, reference vs primitive, object methods, destructuring, variable renaming, default values, spread operator, getter/setter methods, and practice exercises.
+
+- **Chapter 14 - 2D Arrays** (`Chapter_14_2DArray.js/`): Creating 2D arrays, iterating with `for`/`for...of`/`forEach`, test matrix real-world example, using `map` and `reduce` on 2D arrays, and star pattern exercises.
