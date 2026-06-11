@@ -1,7 +1,8 @@
 /**Callback:->>> 1)A callback tells Playwright: "Do not run this code yet! Wait until the browser is completely ready, and then run it."
  * 2)In simple way we can say 
 a function passed inside another function as a helper 
-and saying, "Call me when you are done!" */
+and saying, "Call me when you are done!"
+3)callback is just variable we can use other name also  */
 
 //   Create the helper function (The Callback)
 function sayGoodBye() {
