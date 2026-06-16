@@ -31,3 +31,11 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 13 - Objects** (`Chapter_13_Objects.js/`): Object creation, copy-by-reference, reference vs primitive, object methods, destructuring, variable renaming, default values, spread operator, getter/setter methods, and practice exercises.
 
 - **Chapter 14 - 2D Arrays** (`Chapter_14_2DArray.js/`): Creating 2D arrays, iterating with `for`/`for...of`/`forEach`, test matrix real-world example, using `map` and `reduce` on 2D arrays, and star pattern exercises.
+
+- **Chapter 15 - Callback** (`chapter_15_Callback.js/`): Callback functions — parameter passing, return values, and callback hell patterns.
+
+- **Chapter 16 - Promise** (`chapter_16_Promise.js/`): Promise fundamentals — `Promise.all`, `allSettled`, and promise chaining exercises.
+
+- **Chapter 17 - Async/Await** (`chapter_17_Async_Await.js/`): Async/await patterns, creating async functions, handling pyramid of doom with async/await.
+
+- **Chapter 18 - Playwright Basics** (`chapter_18_Playwright_Basics.js/`): Playwright test setup with basic browser automation — page navigation, assertions, and element interaction.
