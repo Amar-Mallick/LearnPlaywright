@@ -3,15 +3,16 @@
 class student {
     #id=3;
     
-    constructor(name) {
+    constructor(name,idnumber) {
         this.name=name;
+        this.#id=idnumber
     }
     callStudent(){
         console.log(this.name);
-        
-         };
+        console.log(this.#id);
+        };
 }
 
 
-const s1=new student("Amar");
+const s1=new student("Amar",5);
 s1.callStudent();
