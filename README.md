@@ -39,3 +39,5 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 17 - Async/Await** (`chapter_17_Async_Await.js/`): Async/await patterns, creating async functions, handling pyramid of doom with async/await.
 
 - **Chapter 18 - Playwright Basics** (`chapter_18_Playwright_Basics.js/`): Playwright test setup with basic browser automation — page navigation, assertions, and element interaction.
+
+- **Chapter 19 - OOPs Basics** (`chapter_19_OOPs_Basics.js/`): JavaScript object-oriented programming — import/export modules, class and object creation, private vs public fields, and encapsulation with practical exercises.
