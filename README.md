@@ -41,3 +41,6 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 18 - Playwright Basics** (`chapter_18_Playwright_Basics.js/`): Playwright test setup with basic browser automation — page navigation, assertions, and element interaction.
 
 - **Chapter 19 - OOPs Basics** (`chapter_19_OOPs_Basics.js/`): JavaScript object-oriented programming — import/export modules, class and object creation, private vs public fields, and encapsulation with practical exercises.
+  - **Encapsulation** (`04_ENCAPSULATION/`): Encapsulation concepts, getter/setter patterns, method chaining, and practice exercises.
+  - **Inheritance** (`05_INHERITANCE/`): Single, multi-level, and hierarchical inheritance with practical IQ problems.
+  - **Polymorphism** (`06_POLYMORPHISM/`): Method overriding and polymorphic behavior examples.
