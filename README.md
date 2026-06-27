@@ -44,3 +44,7 @@ A JavaScript learning course structured for Playwright automation testing, progr
   - **Encapsulation** (`04_ENCAPSULATION/`): Encapsulation concepts, getter/setter patterns, method chaining, and practice exercises.
   - **Inheritance** (`05_INHERITANCE/`): Single, multi-level, and hierarchical inheritance with practical IQ problems.
   - **Polymorphism** (`06_POLYMORPHISM/`): Method overriding and polymorphic behavior examples.
+
+- **Chapter 20 - TypeScript** (`chapter_20_Typescript/`): TypeScript compiler setup, type annotations, data types, `unknown` and `never` types, with practical IQ problems.
+
+- **Chapter 21 - Abstraction OOP** (`chapter_21_Abstraction_OOP.ts/`): Abstraction in OOP using TypeScript interfaces — interface declaration, optional properties, readonly properties, and practical exercises.
