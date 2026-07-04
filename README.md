@@ -48,3 +48,7 @@ A JavaScript learning course structured for Playwright automation testing, progr
 - **Chapter 20 - TypeScript** (`chapter_20_Typescript/`): TypeScript compiler setup, type annotations, data types, `unknown` and `never` types, with practical IQ problems.
 
 - **Chapter 21 - Abstraction OOP** (`chapter_21_Abstraction_OOP.ts/`): Abstraction in OOP using TypeScript interfaces — interface declaration, optional properties, readonly properties, and practical exercises.
+
+- **Chapter 23 - Type Assertion & Override** (`chapter_23_Type_Assertion_Override.ts/`): TypeScript type assertion using the `as` keyword and method overriding with the `override` keyword for explicit child class method overrides.
+
+- **Chapter 24 - Decorator** (`chapter_24_Decorator.ts/`): TypeScript decorators — decorator factory functions, applying `@` syntax to methods, decorator execution order with multiple decorators, and practical examples for method interception.
